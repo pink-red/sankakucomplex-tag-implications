@@ -1,0 +1,2 @@
+gql[all]==3.3.0
+networkx==2.8.2
